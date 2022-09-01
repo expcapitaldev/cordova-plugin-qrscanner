@@ -1,3 +1,9 @@
+# 2.6.1-dev-1.0
+
+### Features
+
+* **android:** change deprecated 'compile' to 'implementation' (gradle)
+
 <a name="2.6.1"></a>
 # [2.6.1](https://github.com/bitpay/cordova-plugin-qrscanner/compare/2.6.0...2.6.1) (2019-03-27)
 
