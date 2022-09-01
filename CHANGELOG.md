@@ -3,6 +3,7 @@
 ### Features
 
 * **android:** change deprecated 'compile' to 'implementation' (gradle)
+* generated files added for using in cordova plugin without additional build
 
 <a name="2.6.1"></a>
 # [2.6.1](https://github.com/bitpay/cordova-plugin-qrscanner/compare/2.6.0...2.6.1) (2019-03-27)
