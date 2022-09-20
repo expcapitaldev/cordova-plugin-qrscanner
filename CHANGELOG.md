@@ -1,3 +1,9 @@
+## 3.0.1-dev-2.0 (2022-09-20)
+
+### Features
+
+* **android:** change deprecated 'compile' to 'implementation' (gradle)
+
 ## 3.0.1-dev-1.0 (2022-09-16)
 
 ### BREAKING CHANGES
